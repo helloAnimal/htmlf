@@ -7,10 +7,11 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title></title>
-  </head>
-  <body>
+<head>
+    <title>HTML5 学习</title>
+</head>
+<body>
+    <b>这是我的第一个html学习</b>
 
-  </body>
+</body>
 </html>
